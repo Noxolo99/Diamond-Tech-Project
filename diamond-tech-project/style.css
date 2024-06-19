@@ -1,0 +1,25 @@
+.img {
+    .enlarged-image {
+        width: 100%;
+        max-width: 800px; /* Set the desired maximum width */
+        height: auto; /* Maintain aspect ratio */
+        display: block;
+        margin: auto;
+    }
+    .container {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.nav-item, .nav-link {
+    color: black;
+}
+
+h4 {
+    font-size: 100px;
+}
+
+.contatct-us {
+background-color: #f8f9FA;
+}
